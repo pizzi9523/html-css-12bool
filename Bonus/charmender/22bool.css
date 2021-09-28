@@ -288,6 +288,10 @@
   background-color: #E54A38;
 }
 
+.grey{
+  background-color: #D0D2CF;
+}
+
 /*Small devices*/
 @media screen and (min-width: 568px) {
 
