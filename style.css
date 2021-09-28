@@ -4,3 +4,13 @@
     border: 1px solid black;
 }
 
+.col-6.d_flex{
+    padding: 5px;
+    gap: 3px;
+}
+
+.col-6.d_flex > div{
+    background-color: #F07F80;
+    border: none;
+    height: 100%;
+}
